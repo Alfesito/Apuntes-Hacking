@@ -1,0 +1,13 @@
+-------------
+- [[SQLi]]
+- [[XSS]]
+- [[XXE]]
+- [[LFI]]
+- [[RFI]]
+- [[Log Poisoning]]
+- [[CSRF]]
+- [[SSRF]]
+- [[SSTI]]
+- [[CSTI]]
+- [[Padding Oracle]]
+- 
