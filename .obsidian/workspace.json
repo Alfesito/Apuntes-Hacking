@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "8e779a8c754c872a",
+    "type": "split",
+    "children": [
+      {
+        "id": "a68c8aa114393440",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef4c542381818e43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OWASP/Race Condition/Race Condition.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7c7199430d80b211",
+    "type": "split",
+    "children": [
+      {
+        "id": "c40c62ca98eab8c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08a79f11ec138f93",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "30ef197982b37292",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "66f80ae3612ae3e8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 224.5
+  },
+  "right": {
+    "id": "ebeb23cf599c92cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4ad7634ab1b079e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42e4803ddeff33e4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "OWASP/Race Condition/Race Condition.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cafdd4bc75103891",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "OWASP/Race Condition/Race Condition.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d1264989abf43809",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c43f488d8982b8eb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "OWASP/Race Condition/Race Condition.md"
+              }
+            }
+          },
+          {
+            "id": "2bf4bf83f811955c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "08a79f11ec138f93",
+  "lastOpenFiles": [
+    "OWASP/Images/Captura de pantalla 2023-09-14 a las 0.33.03.png",
+    "OWASP/JWT explotation/JWT explotation.md",
+    "OWASP/Race Condition/Race Condition.md",
+    "OWASP/Race Condition",
+    "OWASP/Session Puzzling/Session Puzzling.md",
+    "OWASP/JWT explotation",
+    "OWASP/SQL Truncation/SQL Truncation.md",
+    "OWASP/Session Puzzling",
+    "OWASP/CORS/CORS.md",
+    "OWASP/SQL Truncation",
+    "OWASP/Images/Captura de pantalla 2023-09-13 a las 20.23.46.png",
+    "OWASP/CORS",
+    "OWASP/IDORs/IDORs.md",
+    "OWASP/iXPath/iXPath.md",
+    "OWASP/IDORs",
+    "OWASP/Images/Captura de pantalla 2023-09-13 a las 20.12.59.png",
+    "OWASP/Images/Captura de pantalla 2023-09-13 a las 20.13.13.png",
+    "OWASP/ShellShock/ShellShock.md",
+    "OWASP/iXPath",
+    "OWASP/SQUID Proxies/SQUID Proxies.md",
+    "OWASP/Images/Captura de pantalla 2023-09-13 a las 19.54.26.png",
+    "OWASP/Images/Pasted image 20230913193933.png",
+    "OWASP/Images/Captura de pantalla 2023-09-13 a las 19.53.44.png",
+    "OWASP/ShellShock",
+    "OWASP/WebDAV/WebDAV.md",
+    "OWASP/SQUID Proxies",
+    "OWASP/Images/Captura de pantalla 2023-09-13 a las 19.34.14.png",
+    "OWASP/OWASP ℹ️.md",
+    "OWASP/WebDAV",
+    "OWASP/Images/Captura de pantalla 2023-09-13 a las 18.54.16.png",
+    "OWASP/Open Redirect/Open Redirect.md",
+    "OWASP/Mass-Asignment Attack/Mass-Asignment Attack.md",
+    "OWASP/AXFR/AXFR.md",
+    "OWASP/Prototype pollution/Prototype pollution.md",
+    "OWASP/Untitled.md",
+    "OWASP/Images/Captura de pantalla 2023-09-13 a las 18.48.31.png",
+    "OWASP/API Abuse/API Abuse.md",
+    "OWASP/File upload/File upload.md",
+    "OWASP/iLatex/iLatex.md",
+    "OWASP/Images/Captura de pantalla 2023-09-11 a las 11.51.59.png",
+    "OWASP/iLatex/Configurar Latex en Linux.md",
+    "OWASP/Deserialization Attack/Deserialization Attack.md",
+    "OWASP/iLDAP/iLDAP.md",
+    "OWASP/NoSQLi/NoSQLi.md",
+    "OWASP/Type Juggling/Type Junggling.md",
+    "OWASP/Padding Oracle/Padding Oracle.md"
+  ]
+}

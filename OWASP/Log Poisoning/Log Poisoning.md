@@ -3,6 +3,8 @@ tags:
   - "#log"
   - "#lfi2rce"
   - "#logpoisoning"
+  - lfi
+  - "#ssh"
 ---
 ----------
 El **Log Poisoning** es una técnica de ataque en la que un atacante **manipula** los **archivos de registro** (**logs**) de una aplicación web para lograr un resultado malintencionado. Esta técnica puede ser utilizada en conjunto con una vulnerabilidad **LFI** para lograr una **ejecución remota de comandos** en el servidor.
