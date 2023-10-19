@@ -1,0 +1,7 @@
+2023-10-19 08:55:18 Loading main app package /opt/Obsidian/resources/obsidian.asar
+2023-10-19 08:55:18 Checking for update using Github
+libva error: vaGetDriverNameByIndex() failed with unknown libva error, driver_name = (null)
+2023-10-19 08:55:18 Success.
+2023-10-19 08:55:18 Latest version is 1.4.16
+2023-10-19 08:55:18 App is up to date.
+[12166:1019/105518.448053:ERROR:command_buffer_proxy_impl.cc(128)] ContextResult::kTransientFailure: Failed to send GpuControl.CreateCommandBuffer.
